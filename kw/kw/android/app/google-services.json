@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056336869565",
+    "project_id": "absensi-kelas-9fc17",
+    "storage_bucket": "absensi-kelas-9fc17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056336869565:android:1b0355d4c5ece9ac965fd4",
+        "android_client_info": {
+          "package_name": "com.example.kw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBTvGarKhVYnpWJFhgNsqIikbdvZ5Gd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
